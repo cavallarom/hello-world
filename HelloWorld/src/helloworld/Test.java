@@ -13,6 +13,7 @@ public class Test {
     public static String getNome()
     {
         return "Matteo";
+    }
     public static void message()
     {
         System.out.println("Message");
