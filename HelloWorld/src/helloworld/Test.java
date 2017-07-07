@@ -10,5 +10,8 @@ package helloworld;
  * @author CavallaroM
  */
 public class Test {
-    
+    public static String getNome()
+    {
+        return "Matteo";
+    }
 }
