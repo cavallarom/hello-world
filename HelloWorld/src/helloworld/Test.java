@@ -10,5 +10,8 @@ package helloworld;
  * @author CavallaroM
  */
 public class Test {
-    
+    public static void message()
+    {
+        System.out.println("Message");
+    }
 }
